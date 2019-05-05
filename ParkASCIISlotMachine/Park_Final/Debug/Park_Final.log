@@ -1,0 +1,3 @@
+﻿  Park_Final.cpp
+d:\cscpp\projects\park_final_slots\park_final\park_final.cpp(698): warning C4715: 'YorN': not all control paths return a value
+  Park_Final.vcxproj -> D:\CSCPP\Projects\Park_Final_SLOTS\Debug\Park_Final.exe
